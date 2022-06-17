@@ -1,0 +1,11 @@
+E:\Kuliah\Semester 4\PABD\ExeCRUD\ExeCRUD\bin\Debug\ExeCRUD.exe.config
+E:\Kuliah\Semester 4\PABD\ExeCRUD\ExeCRUD\bin\Debug\ExeCRUD.exe
+E:\Kuliah\Semester 4\PABD\ExeCRUD\ExeCRUD\bin\Debug\ExeCRUD.pdb
+E:\Kuliah\Semester 4\PABD\ExeCRUD\ExeCRUD\obj\Debug\ExeCRUD.csproj.AssemblyReference.cache
+E:\Kuliah\Semester 4\PABD\ExeCRUD\ExeCRUD\obj\Debug\ExeCRUD.Form1.resources
+E:\Kuliah\Semester 4\PABD\ExeCRUD\ExeCRUD\obj\Debug\ExeCRUD.Properties.Resources.resources
+E:\Kuliah\Semester 4\PABD\ExeCRUD\ExeCRUD\obj\Debug\ExeCRUD.csproj.GenerateResource.cache
+E:\Kuliah\Semester 4\PABD\ExeCRUD\ExeCRUD\obj\Debug\ExeCRUD.csproj.CoreCompileInputs.cache
+E:\Kuliah\Semester 4\PABD\ExeCRUD\ExeCRUD\obj\Debug\ExeCRUD.exe
+E:\Kuliah\Semester 4\PABD\ExeCRUD\ExeCRUD\obj\Debug\ExeCRUD.pdb
+E:\Kuliah\Semester 4\PABD\ExeCRUD\ExeCRUD\obj\Debug\ExeCRUD.Form2.resources
